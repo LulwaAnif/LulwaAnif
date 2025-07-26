@@ -14,16 +14,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,html,css,firebase,git,github,figma" />
 </p>
-
----
-
-### 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LulwaAnif&layout=compact&theme=radical&langs_count=8" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=LulwaAnif&theme=radical&margin-w=5&row=1&column=4" width="48%" />
-</p>
-
 ---
 
 ### 🔗 Let's Connect
